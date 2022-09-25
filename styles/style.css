@@ -4,4 +4,26 @@ body {
 h1 {
   font-family: "Playfair Display", serif;
   font-weight: bold;
+  font-size: 96px;
+  line-height: 2;
+}
+p {
+  font-size: 36px;
+  margin: 0;
+  font-weight: bold;
+}
+h2 {
+  color: #272142;
+  font-size: 24px;
+}
+.hero {
+  background: #f9f7fe;
+  text-align: center;
+  padding: 160px 0;
+}
+.btn-branding {
+  padding: 20px 25px;
+  color: white;
+  background: #6c63ff;
+  font-size: 18px;
 }
