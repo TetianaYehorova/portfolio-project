@@ -54,6 +54,26 @@ img {
 .description {
   margin: 100px 30px;
 }
+.about-section {
+  padding: 160px 0;
+}
+.about-section h1 {
+  font-size: 64px;
+  line-height: 1.3;
+}
+.about-section h3 {
+  color: #272142;
+  font-size: 18px;
+  font-weight: 700;
+}
+.about-section p {
+  font-size: 16px;
+  line-height: 30px;
+}
+.about-section-content {
+  padding: 30px;
+  margin: 60px 30px;
+}
 @media (max-width: 912px) {
   .description {
     text-align: center;
@@ -64,6 +84,10 @@ img {
     font-size: 60px;
     line-height: 1.3;
   }
+  .about-section {
+    text-align: center;
+    padding: 0;
+    margin: 30px 20px;
   .hero {
     padding: 80px 0;
   }
